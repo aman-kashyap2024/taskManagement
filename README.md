@@ -13,13 +13,13 @@ Features
 
 Technologies Used
   Front-end
-      HTML
-      CSS
-      JavaScript
+      *HTML
+      *CSS
+      *JavaScript
   Back-end
-      Node.js
-      Express
-      MongoDB
-      Mongoose
-      Body-parser
-      Cors
+      *Node.js
+      *Express
+      *MongoDB
+      *Mongoose
+      *Body-parser
+      *Cors
