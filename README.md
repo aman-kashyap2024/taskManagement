@@ -16,7 +16,7 @@ Technologies Used
       *HTML
       *CSS
       *JavaScript
-  Back-end
+  +Back-end
       *Node.js
       *Express
       *MongoDB
