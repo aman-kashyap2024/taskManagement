@@ -12,7 +12,7 @@ Features
 (6)Responsive Design: Ensures usability on both desktop and mobile devices.
 
 Technologies Used
-  Front-end
+  +Front-end
       *HTML
       *CSS
       *JavaScript
