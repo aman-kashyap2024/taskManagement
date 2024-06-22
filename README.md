@@ -5,9 +5,9 @@ The Task Management Application is a web-based solution designed to help users m
 
 |SNo| Topic | SubTopic |
 |-|-|-|
-|01|Features | Landing Page: Displays a list of tasks.
+|01|Features | Landing Page: Displays a list of tasks. |
 Add New Task: Users can add new tasks with a title, description, and due date.
 View Task Details: Users can view detailed information of each task.
 Edit Task: Users can edit existing tasks.
 Delete Task: Users can delete tasks.
-Responsive Design: Ensures usability on both desktop and mobile devices.|
+Responsive Design: Ensures usability on both desktop and mobile devices.
